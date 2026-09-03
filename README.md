@@ -233,7 +233,9 @@ The dashboard can be used to analyze:
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="Screenshot 2026-09-04 003335.png" alt="ESPN Cricket Dashboard" width="900">
+  <img src="batting.png" alt="Batting " width="900">
+    <img src="bowling.png" alt="Bowling " width="900">
+    <img src="fielding.png" alt="Fielding  " width="900">
 </p>
 
 
