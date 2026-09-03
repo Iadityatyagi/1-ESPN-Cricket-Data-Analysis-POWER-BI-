@@ -233,13 +233,7 @@ The dashboard can be used to analyze:
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="dashboard.png" alt="ESPN Cricket Dashboard" width="900">
-</p>
-
-<p align="center">
-
-🔗 **[🚀 Open Interactive Power BI Dashboard](YOUR-POWER-BI-LINK)**
-
+  <img src="Screenshot 2026-09-04 003335.png" alt="ESPN Cricket Dashboard" width="900">
 </p>
 
 
