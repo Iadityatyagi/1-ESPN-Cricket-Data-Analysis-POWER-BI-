@@ -241,4 +241,12 @@ The dashboard can be used to analyze:
 </p>
 
 
+🏁 Conclusion
+The ESPN Cricket Data Analysis project demonstrates the complete process of transforming web-based cricket data into meaningful business intelligence insights.
+
+The project started with web scraping ESPNcricinfo, followed by data cleaning and transformation using Power Query. DAX was then used to perform statistical calculations such as Deviation, Absolute Deviation, Squared Deviation, Player Rank, and Strike Rate Category.
+
+Finally, the processed data was visualized through an interactive Power BI dashboard.
+
+This project provides an effective way to analyze and compare the batting and bowling performance of India and South Africa while demonstrating practical skills in Power BI, Power Query, DAX, web scraping, data cleaning, statistical analysis, and data visualization.
   
