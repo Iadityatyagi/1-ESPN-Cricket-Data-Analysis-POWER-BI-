@@ -107,6 +107,13 @@ The batting analysis includes important fields such as:
 - Strike Rate
 - Batting statistics
 - Performance categories
+
+
+<p align="center">
+  <img src="batting.png" alt="Batting " width="900">
+   
+</p>
+
  
 🎯 Bowling Data Analysis
 A similar web-scraping process was used to collect India and South Africa bowling data.
@@ -122,6 +129,12 @@ The bowling dataset was processed using Power Query by:
 - Handling missing values.
 - Replacing missing numerical values where required.
 The final bowling dataset was then used for Power BI analysis.
+
+  <p align="center">
+    </p><img src="bowling.png" alt="Bowling " width="900">
+</p>
+
+   
 
 📐 DAX Calculations
 After completing data cleaning and transformation, DAX calculations were created to perform statistical analysis.
@@ -221,6 +234,14 @@ The dashboard can be used to analyze:
 - Squared deviation.
 
 
+**🏁 Conclusion**
+
+
+The ESPN Cricket Data Analysis project demonstrates the complete process of transforming web-based cricket data into meaningful business intelligence insights.
+
+
+The project started with web scraping ESPNcricinfo, followed by data cleaning and transformation using Power Query. DAX was then used to perform statistical calculations such as Deviation, Absolute Deviation, Squared Deviation, Player Rank, and Strike Rate Category.
+
  ## 📊 Interactive Dashboard
 
 <p align="center">
@@ -230,21 +251,12 @@ The dashboard can be used to analyze:
 </p>
 
 
-
-
 ## 📊 Dashboard Preview
-
-<p align="center">
-  <img src="batting.png" alt="Batting " width="900">
-    <img src="bowling.png" alt="Bowling " width="900">
-    <img src="fielding.png" alt="Fielding  " width="900">
+ <img src="fielding.png" alt="Fielding  " width="900">
 </p>
 
 
-🏁 Conclusion
-The ESPN Cricket Data Analysis project demonstrates the complete process of transforming web-based cricket data into meaningful business intelligence insights.
 
-The project started with web scraping ESPNcricinfo, followed by data cleaning and transformation using Power Query. DAX was then used to perform statistical calculations such as Deviation, Absolute Deviation, Squared Deviation, Player Rank, and Strike Rate Category.
 
 Finally, the processed data was visualized through an interactive Power BI dashboard.
 
